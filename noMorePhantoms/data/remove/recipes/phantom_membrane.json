@@ -1,0 +1,20 @@
+{
+	"type":"crafting_shaped",
+	"group":"noMorePhantoms",
+	"pattern":[
+		"bs",
+		"sb"
+	],
+	"key":{
+		"b":{
+			"item":"minecraft:bone"
+		},
+		"s":{
+			"item":"minecraft:slime_ball"
+		}
+	},
+	"result":{
+		"item":"minecraft:phantom_membrane",
+		"count":2
+	}
+}
